@@ -2,6 +2,8 @@
 
 ![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
 
+[Check out the live preview](https://frontend-mentor-four-card-feature-section-josiesam.vercel.app/)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
